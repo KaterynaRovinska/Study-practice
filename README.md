@@ -1,1 +1,1 @@
-# Study-practice
+# Practice
